@@ -34,3 +34,26 @@
   
   https://drive.google.com/drive/folders/0B3LEs3IwtLvyQUQ3RnFhMlgtdjA?usp=sharing
     
+# Components used in the construction of the balance bot:
+
+-> Microcontroller-Arduino Mega 2560 and Arduino Uno
+
+-> Motor Drivers(Cytron- 10 A)
+
+-> gy-80
+
+-> Xbee s2c series(2)
+
+-> Xbee Module or adapter(2)
+
+-> A joystick(Analog Stick)
+
+-> Quadrature encoder motors(2)
+
+-> Wheels
+
+-> Fibre plates
+
+-> Plastic and metal studs for joints
+
+-> Metal screws of variable sizes. 
