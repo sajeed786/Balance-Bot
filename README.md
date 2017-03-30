@@ -1,10 +1,14 @@
 # Balance-Bot
 
 # Balancing a robot on two wheels using gy-80 sensor
-
-# Introduction about the sensor gy-80:
- The gy-80 is a sensor module consisting of four other smaller sensors which are listed as follows:
  
+# A quick demonstration of the working of the balance bot is given in the following link:
+
+  https://drive.google.com/file/d/0B3LEs3IwtLvybVJJa1pQRHN3TzQ/view?usp=sharing
+  
+# Introduction about the sensor gy-80:
+
+ The gy-80 is a sensor module consisting of four other smaller sensors which are listed as follows:
 # Name of the Sensor, Sensor Id and I2C Address
 
  3 Axis Gyro	                         L3G4200D  	(0x69)	
