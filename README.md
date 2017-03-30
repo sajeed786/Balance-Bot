@@ -30,7 +30,7 @@
   Barometer + Thermometer   http://4tronix.co.uk/arduino/specs/BMP085.pdf
   
   For getting hands-on about how to interface the registers of the gy-80 sensor module using Arduino(Interfacing with Arduino is easy),
-  the following google drive link. Please open the files in a text editor for ease:
+  the following google drive link. These are sample codes that can be compiled and executed using an Arduino IDE. Please open the files   in a text editor for ease:
   
   https://drive.google.com/drive/folders/0B3LEs3IwtLvyQUQ3RnFhMlgtdjA?usp=sharing
     
