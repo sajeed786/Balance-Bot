@@ -5,24 +5,25 @@
 # Introduction about the sensor gy-80:
  The gy-80 is a sensor module consisting of four other smaller sensors which are listed as follows:
  
-# Name of the Sensor       Sensor Id  I2C Address
+# Name of the Sensor, Sensor Id and I2C Address
 
- 3 Axis Gyro	            L3G4200D  	0x69	
+ 3 Axis Gyro	                         L3G4200D  	(0x69)	
 
- 3 Axis Accelerometer	    ADXL345     0x53	
+ 3 Axis Accelerometer	            ADXL345     (0x53)	
  
- 3 Axis Magnetometer        MC5883L	    0x1E	
+ 3 Axis Magnetometer           MC5883L	    (0x1E)	
  
- Barometer + Thermometer    BMP085	    0x77	
+ Barometer + Thermometer    BMP085	    (0x77)	
+ 
  
  The detailed spesifications of the registers present on the chip of each of the four types of sensors are clearly available in their
  respectibe datasheets. For easier reference kindly refer to the links of the datasheets mentioned below:
  
- # Sensor                    Datasheet Link
+ # Sensor                    and Datasheet Link
  
-  3 Axis Gyro	            http://4tronix.co.uk/arduino/specs/L3G4200D.pdf
+  3 Axis Gyro	              http://4tronix.co.uk/arduino/specs/L3G4200D.pdf
  
-  3 Axis Accelerometer	    http://4tronix.co.uk/arduino/specs/ADXL345.pdf	
+  3 Axis Accelerometer	     http://4tronix.co.uk/arduino/specs/ADXL345.pdf	
   
   3 Axis Magnetometer       http://4tronix.co.uk/arduino/specs/HMC5883L.pdf
   
